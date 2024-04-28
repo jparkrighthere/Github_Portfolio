@@ -25,7 +25,7 @@
 >> 
 >
 >> Front-end
->> - Language : javascript
+>> - Language : Javascript
 >> - Skill : React.js
 >>
 >> [프로젝트 상세 설명](https://github.com/jparkrighthere/C1_Banking_App)
