@@ -17,11 +17,11 @@
 > Capital One 풀스택 뱅킹 웹 애플리케이션 프로젝트
 >
 > - 개발기간 : 2024.01.22 ~ 2024.04.26
-> - 핵심 역할 : 팀장, Plaid API를 이용한 백엔드 개발, React를 사용한 통계적 시각 자료 개발
+> - 핵심 역할 : 팀장, Python, MongoDB 및 Plaid API를 이용한 백엔드 개발과 React를 사용한 프론트엔드(통계적 시각 자료 ex: graph, pie-chart, bar-chart) 개발
 >
 >> Back-end
 >> - Language : python3  
->> - Skill : Flask, Mongo DB
+>> - Skill : Flask, MongoDB
 >> 
 >
 >> Front-end
