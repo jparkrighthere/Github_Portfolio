@@ -28,7 +28,7 @@
 >> - Language : javascript
 >> - Skill : React.js
 >>
->> [프로젝트 상세 설명] Private Repository for now
+>> [프로젝트 상세 설명](https://github.com/jparkrighthere/C1_Banking_App)
 
 <br />
 
