@@ -1,4 +1,4 @@
-# 📜 Github_Fortfolio
+# 📜 Github_Portfolio
 
 > 박정현(Jeonghyeon Park) - jparkrighthere 포트폴리오
 
